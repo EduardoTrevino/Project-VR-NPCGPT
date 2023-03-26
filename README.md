@@ -17,8 +17,7 @@
 ## Microphone Audio -------> Convert to Text ---------> Print text to terminal (CONSCE) ##
 
                               END OF ENGINEERING FEAT 1
-                             
-                             
+                                                       
                              
                              DESIGN: 
 ## NPC, GITHUB REPO DOCUMENTATION, VR WORLD/ LEVEL ##
@@ -28,7 +27,7 @@
                              
                              Engineering feat 2: Research
                              
-## Lypsync: Move NPC's lips to appear as if they are talking ##
+## Lipsync: Move NPC's lips to appear as if they are talking ##
 ## Find VR chat model script to apply to our model ## 
                              
                                

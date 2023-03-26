@@ -8,7 +8,7 @@
 ## Step 7:  HTTPGtp plugin receives text from GPT ##
 ## Step 8:  AzSpeech plugin: Azure text to speech ##
 
-## TAP SPEECH FROM BUTTOJN PRESS IS OPTIMAL ##
+#### TAP SPEECH FROM BUTTOJN PRESS IS OPTIMAL ####
 
 
                               END OF PART 1

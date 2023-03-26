@@ -14,7 +14,7 @@ The goal of this project was to extend the capabilities of GPT onto a virtual en
 Breakdown and reason for using Frameworks/Plugins/Technology:
 For this Project I decided we should build it using **OpenXR**. OpenXR allows for future integration of XR (Virtual and Augmented Reality) improvements to upgrade the user interaction as the technology begins to diffuse.
 
-For the Game Engine we decided on Unreal Engine 5.1. Unreal Engine has seen alot of use in the 
+For the Game Engine we decided on Unreal Engine 5.1. Unreal Engine has seen a lot of use in the Digital Twin (IOT) space, immersive simulation training and gaming, and for generating synthetic data for machine learning models/environments for reinforcement learning AI models. This presents an opportunity to learn a high demanding technology with near-infinite B2B, B2C market opportunities.
 
 
 

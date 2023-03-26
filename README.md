@@ -12,6 +12,7 @@ The Project Managment Plan was done by: Eduardo Trevino
 The goal of this project was to extend the capabilities of Open AI's GPT family onto a fresh virtual environment interface. Virtual Reality / Mixed Reality technologies continue to offer humans the ability to expand their creativity while allowing for experiences that would otherwise not be possible. Therefore, extending GPT to access virtual interactions by humans is essential for its continued growth towards Artifical General Intelligence
 
 Breakdown and reason for using Frameworks/Plugins/Technology:
+
 For this Project I decided we should build it using **OpenXR**. OpenXR allows for future integration of XR (Virtual and Augmented Reality) improvements to upgrade the user interaction as the technology begins to diffuse.
 
 For the Game Engine we decided on **Unreal Engine 5.1**. Unreal Engine has seen a lot of use in the Digital Twin (IOT) space, immersive simulation training and gaming, and for generating synthetic data for machine learning models/environments for reinforcement learning AI models. This presents an opportunity to learn a high demanding technology with near-infinite B2B, B2C market opportunities.

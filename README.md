@@ -6,7 +6,7 @@ STEP 2:
 ## Generate speech using human speech ##
 STEP 3: 
 ## Az Speech plugin ##
-## will be used for Azure Speech to Text ##
+#### will be used for Azure Speech to Text ####
 Step 4: 
 ## Http plugin: ##
 ## Send text to OpenAI GPT ##

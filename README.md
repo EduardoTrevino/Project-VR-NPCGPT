@@ -1,5 +1,5 @@
 # Howdy Howdy Lets get Rowdy!
-# Welcome to the NPCGPT github
+**Welcome to the NPCGPT github**
 **Team: Eduardo Antonio Trevino, Saran Chowdari m, Christopher Placencio, Nicholas "Andres" Escobar**
 
 Here we are going to outline the entire project

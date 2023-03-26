@@ -8,6 +8,7 @@ Here we are going to outline the entire project
 
 The Project Managment Plan was done by: Eduardo Trevino
 
+# Preface of project Outline: Motivations
 The goal of this project was to extend the capabilities of GPT onto a virtual environment. Virtual Reality / Mixed Reality technologies continue to offer humans the ability to expand their creativity while allowing for experiences that would otherwise not be possible. Therefore, extending GPT to access virtual interactions by humans is essential for its continued growth towards Artifical General Intelligence
 
 Breakdown and reason for using Frameworks/Plugins/Technology:

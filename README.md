@@ -1,5 +1,5 @@
 
-## STEP 1:  EU5 Client (occulus quest 2)##
+## STEP 1:  EU5 Client (occulus quest 2) ##
 ## STEP 2:  VR headset mic audio ## 
 ## STEP 3:  Generate speech using human speech ##
 ## Step 4:  Az Speech plugin: will be used for Azure Speech to Text and text to speech vice versa ##

@@ -2,7 +2,7 @@
 ## STEP 1:  EU5 Client (occulus quest 2) ##
 ## STEP 2:  VR Headset Mic Audio ## 
 ## STEP 3:  Generate speech using human speech ##
-## Step 4:  Azure Speech plugin: will be used for Azure Speech to Text and text to speech vice versa ##
+## Step 4:  Azure Speech plugin: will be used for Azure speech to text and text to speech vice versa ##
 ## Step 5:  Http plugin: Send text to OpenAI GPT ##
 ## Step 6:  OpenAI GPT API generates text ##
 ## Step 7:  HTTP Gpt plugin receives text from GPT ##

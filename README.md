@@ -1,4 +1,4 @@
-#Howdy Howdy Lets get Rowdy!
+# Howdy Howdy Lets get Rowdy!
 Welcome to NPCGPT github
 
 Here we are going to outline the entire project managment Plan done by: Eduardo Trevino

@@ -17,8 +17,15 @@ For this Project I decided we should build it using **OpenXR**. OpenXR allows fo
 
 For the Game Engine we decided on **Unreal Engine 5.1**. Unreal Engine has seen a lot of use in the Digital Twin (IOT) space, immersive simulation training and gaming, and for generating synthetic data for machine learning models/environments for reinforcement learning AI models. This presents an opportunity to learn a high demanding technology with near-infinite B2B, B2C market opportunities.
 
+VoiceSDK
 
+MetaHuman & MetaHumanSDK
 
+Azure Cognitive services
+
+Http REST API
+
+-
 ## STEP 1:  EU5 Client (occulus quest 2) ##
 ## STEP 2:  VR Headset Mic Audio ## 
 ## STEP 3:  Generate speech using human speech ##
